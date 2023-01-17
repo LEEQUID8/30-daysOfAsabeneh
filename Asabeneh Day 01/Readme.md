@@ -1,0 +1,24 @@
+what i did on 9th of January, 2023;
+-Writing Code on Browser Console
+-Console.log
+=Console.log with Multiple Arguments
+-Comments
+-Syntax
+-Arithmetics
+-Code Editor
+-Installing Visual Studio Code
+- to Use Visual Studio Code
+-Adding JavaScript to a Web Page
+-Inline Script
+-Internal Script
+-External Script
+-Multiple External Scripts
+-Introduction to Data types
+-Numbers
+-Strings
+-Booleans
+-Undefined
+-Null
+-Checking Data Types
+-Comments Again
+-Variables
